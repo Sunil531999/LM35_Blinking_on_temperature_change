@@ -1,5 +1,5 @@
 # LM35-Blinking-on-temperature-change
-FIRMWARE ASSIGNMENT
+FIRMWARE ASSIGNMENT | GREENDZINE
 
 Circuit Diagram and Photo:
 ==================
